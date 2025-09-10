@@ -2,7 +2,7 @@ package git_test2;
 
 public class Hello {
 	public void say() {
-		String message1 = "안녀앟세요";
+		String message1 = "안녕하세요";
 		public String say(){
 			return message1;
 		}
